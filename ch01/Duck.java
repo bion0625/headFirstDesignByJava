@@ -1,3 +1,5 @@
+package ch01;
+
 public abstract class Duck {
     FlyBehavior flyBehavior;
     QuackBehavior quackBehavior;

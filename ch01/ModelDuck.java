@@ -1,3 +1,5 @@
+package ch01;
+
 public class ModelDuck extends Duck{
 
     public ModelDuck() {
